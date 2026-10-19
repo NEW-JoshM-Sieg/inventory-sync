@@ -1,0 +1,10 @@
+{
+  "supplier": "Highland Imports",
+  "contact": "Tom Becker",
+  "ship_date": "2026-10-28",
+  "eta": "2026-11-03",
+  "lines": [
+    { "origin": "Ethiopia Yirgacheffe G1 washed", "bags": 6, "kg_per_bag": 60 },
+    { "origin": "Colombia Huila", "bags": 4, "kg_per_bag": 70 }
+  ]
+}
